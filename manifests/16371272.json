@@ -32,6 +32,10 @@
     "description": "Ex libris Ronald A. Coates; Eric Millar; Brian S. Cron. From the collection of Toshiyuki Takamiya, 2013-. With an Oxford pledge note for the Selton Loan Chest dated 1469 and the mark of the stationer John More. There is also a note by M. Paris, possibly Master Thomas Paris of Oriel College. /n Layout: double columns of 49 lines. Script: small gothic script. Decoration: red and blue penwork initials. Binding: modern goatskin",
     "license": "http://www.copyright.gov/",
     "attribution": "Beinecke Rare Book and Manuscript Library, Yale University",
+    "related": {
+        "@id": "https://brbl-dl.library.yale.edu/vufind/Record/4428123?object_id=16371272",
+        "format": "text/html"
+      },
     "logo": "https://www.copyright.gov/images/cp-logo2.png",
     "sequences": [
         {
