@@ -7,6 +7,10 @@
         { "label": "Title", "value": "Mirour of mans salvacioune."},
         { "label": "Date", "value": "[ca. 1450]"}  
     ],
+    "related": {
+      "@id": "https://brbl-dl.library.yale.edu/vufind/Record/4340604",
+      "format": "text/html"
+    },
     "sequences": [
         {
             "@id": "https://mikeapp.github.io/static/iiif/manifest/sequence/16156712",
