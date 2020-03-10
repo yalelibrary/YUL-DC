@@ -1,0 +1,193 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://edejesusyale.github.io/static/iiif/manifest/16371253.json",
+  "@type": "sc:Manifest",
+  "label": "OID:16371253",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Missal, use of Sarum (fragment)"
+    },
+    {
+      "label": "Date",
+      "value": "[between 1400 and 1500]"
+    }
+  ],
+  "related": {
+    "@id": "https://brbl-dl.library.yale.edu/vufind/Record/4428104",
+    "format": "text/html"
+  },
+  "sequences": [
+    {
+      "@id": "https://edejesusyale.github.io/static/iiif/manifest/sequence/16371253",
+      "@type": "sc:Sequence",
+      "label": "Current Page Order",
+      "viewingDirection": "left-to-right",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/0",
+          "@type": "sc:Canvas",
+          "label": "1r",
+          "height": 7910,
+          "width": 5632,
+          "images": [
+            {
+              "@id": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/0/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/0",
+              "resource": {
+                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/3/16394803/16394803.jp2/full/5632,/0/default.jpg",
+                "height": 7910,
+                "width": 5632,
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/3/16394803/16394803.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/1",
+          "@type": "sc:Canvas",
+          "label": "1v",
+          "height": 7910,
+          "width": 5632,
+          "images": [
+            {
+              "@id": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/1/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/1",
+              "resource": {
+                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/4/16394804/16394804.jp2/full/5632,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 7910,
+                "width": 5632,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/4/16394804/16394804.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/2",
+          "@type": "sc:Canvas",
+          "label": "2r",
+          "height": 7910,
+          "width": 5632,
+          "images": [
+            {
+              "@id": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/2/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/2",
+              "resource": {
+                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/5/16394805/16394805.jp2/full/5632,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 7910,
+                "width": 5632,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/5/16394805/16394805.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/3",
+          "@type": "sc:Canvas",
+          "label": "2v",
+          "height": 7910,
+          "width": 5632,
+          "images": [
+            {
+              "@id": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/3/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/3",
+              "resource": {
+                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/6/16394806/16394806.jp2/full/5632,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 7910,
+                "width": 5632,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/6/16394806/16394806.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/4",
+          "@type": "sc:Canvas",
+          "label": "3r",
+          "height": 7910,
+          "width": 5632,
+          "images": [
+            {
+              "@id": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/4/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/4",
+              "resource": {
+                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/7/16394807/16394807.jp2/full/5632,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 7910,
+                "width": 5632,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/7/16394807/16394807.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/5",
+          "@type": "sc:Canvas",
+          "label": "3v",
+          "height": 7910,
+          "width": 5632,
+          "images": [
+            {
+              "@id": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/5/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://edejesusyale.github.io/static/iiif/manifest/oid/16371253/canvas/5",
+              "resource": {
+                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/8/16394808/16394808.jp2/full/5632,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 7910,
+                "width": 5632,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/8/16394808/16394808.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

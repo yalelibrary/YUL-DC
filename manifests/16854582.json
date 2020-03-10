@@ -1,0 +1,317 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582.json",
+  "label": "Mark's Sample Manifest - YCAL MSS 702",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": [
+        "[Career files unnumbered folder 9] The Thanks Be To Grandmother Winifred Foundation Grantees to be photographed"
+      ]
+    },
+    {
+      "label": "Creator",
+      "value": [
+        "Giard, Robert, 1939-2002"
+      ]
+    },
+    {
+      "label": "Date",
+      "value": [
+        "July 10, 1996"
+      ]
+    },
+    {
+      "label": "Use Contidions",
+      "value": [
+        "The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement."
+      ]
+    }
+  ],
+  "description": "[Career files unnumbered folder 9] The Thanks Be To Grandmother Winifred Foundation Grantees to be photographed",
+  "attribution": "Beinecke Library",
+  "license": "http://rightsstatements.org/vocab/InC/1.0/",
+  "related": {
+    "@id": "https://brbl-dl.library.yale.edu/vufind/Record/4727766",
+    "format": "text/html"
+  },
+  
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "@id": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/sequence/normal",
+      "viewingDirection": "left-to-right",
+      "viewingHint": "paged",
+      "rendering": {
+        "@id": "https://brbl-dl.library.yale.edu/pdfgen/exportPDF.php?bibid=16854582&solrid=4727766",
+        "label": "Download all pages as PDF",
+        "format": "application/pdf"
+      },
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/1r",
+          "label": "16854589.tiff",
+          "width": 640,
+          "height": 480,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/6d56zw601%2Ffiles%2F21096207-e941-43c5-b9c2-37891e5c29c7/full/600,/0/default.jpg",
+                "height": 480,
+                "width": 640,
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/6d56zw601%2Ffiles%2F21096207-e941-43c5-b9c2-37891e5c29c7",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/1r"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/1v",
+          "label": "blank",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/2r",
+          "label": "16854590.tiff",
+          "width": 640,
+          "height": 480,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/hm50tr751%2Ffiles%2Fb3a21045-0122-43ef-81d9-2dfcc4cb56d8/full/600,/0/default.jpg",
+                "height": 480,
+                "width": 640,
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/hm50tr751%2Ffiles%2Fb3a21045-0122-43ef-81d9-2dfcc4cb56d8",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/2r"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/2v",
+          "label": "blank",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/3r",
+          "label": "16854591.tiff",
+          "width": 640,
+          "height": 480,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/zk51vg77m%2Ffiles%2Fbced22a3-1ebc-4133-95dd-8738160b3d64/full/600,/0/default.jpg",
+                "height": 480,
+                "width": 640,
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/zk51vg77m%2Ffiles%2Fbced22a3-1ebc-4133-95dd-8738160b3d64",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/3r"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/3v",
+          "label": "blank",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/4r",
+          "label": "16854592.tiff",
+          "width": 640,
+          "height": 480,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/t148fh12j%2Ffiles%2F891b060a-634d-48c0-ba6e-a254ca142857/full/600,/0/default.jpg",
+                "height": 480,
+                "width": 640,
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/t148fh12j%2Ffiles%2F891b060a-634d-48c0-ba6e-a254ca142857",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/4r"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/4v",
+          "label": "16854624.tiff",
+          "width": 640,
+          "height": 480,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/f1881k888%2Ffiles%2F55e9cd0e-405a-425a-8c4f-cdb7252aa350/full/600,/0/default.jpg",
+                "height": 480,
+                "width": 640,
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/f1881k888%2Ffiles%2F55e9cd0e-405a-425a-8c4f-cdb7252aa350",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/4v"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/5r",
+          "label": "16854593.tiff",
+          "width": 640,
+          "height": 480,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/5425k9692%2Ffiles%2Fdef656cb-19a4-44a7-aab7-de9082f299a3/full/600,/0/default.jpg",
+                "height": 480,
+                "width": 640,
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/5425k9692%2Ffiles%2Fdef656cb-19a4-44a7-aab7-de9082f299a3",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/5r"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/5v",
+          "label": "blank",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/6r",
+          "label": "16854594.tiff",
+          "width": 640,
+          "height": 480,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/gq67jr170%2Ffiles%2F9d029513-3a0a-49b3-b72e-f1a9a5642978/full/600,/0/default.jpg",
+                "height": 480,
+                "width": 640,
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/gq67jr170%2Ffiles%2F9d029513-3a0a-49b3-b72e-f1a9a5642978",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/6r"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/6v",
+          "label": "16854625.tiff",
+          "width": 640,
+          "height": 480,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/3j3332278%2Ffiles%2F551f65bc-d284-4612-ad08-a9bbb58f656c/full/600,/0/default.jpg",
+                "height": 480,
+                "width": 640,
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/3j3332278%2Ffiles%2F551f65bc-d284-4612-ad08-a9bbb58f656c",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/6v"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/7r",
+          "label": "16854595.tiff",
+          "width": 640,
+          "height": 480,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/5999n3392%2Ffiles%2F88972426-2a2d-487b-9431-b8f48da8ca8c/full/600,/0/default.jpg",
+                "height": 480,
+                "width": 640,
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://tenejo-stage.curationexperts.com/cantaloupe/iiif/2/5999n3392%2Ffiles%2F88972426-2a2d-487b-9431-b8f48da8ca8c",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://raw.githubusercontent.com/curationexperts/YUL-DC/manifests/mark-dce/16854582/canvas/7r"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

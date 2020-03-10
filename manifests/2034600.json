@@ -27,6 +27,12 @@
 			]
 		}
 	],
+  
+  "related": {
+    "@id": "https://brbl-dl.library.yale.edu/vufind/Record/3542543",
+    "format": "text/html"
+  },
+  
 
 	// Presentation Information
   "viewingHint": "individuals",
