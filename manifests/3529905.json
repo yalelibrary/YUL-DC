@@ -1,0 +1,152 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://example.com/ms229",
+  "@type": "sc:Collection",
+	"label": "Jane Wodening and Stan Brakhage scrapbooks",
+	"description":"Three scrapbooks, compiled by Jane Wodening, containing correspondence, photographs, manuscripts, printed material, artwork, cut film, and objects documenting the work and family life of Wodening (ne?e Collom) and Stan Brakhage from 1958 to 1967.",
+	
+	"metadata": [
+		{
+			"label": "Title",
+			"value": [
+				"Jane Wodening and Stan Brakhage scrapbooks"
+			]
+		},
+		{
+			"label": "Creator",
+			"value": [
+				"Wodening, Jane, 1936-",
+				"Brakhage, Stan"
+			]
+		},
+		{
+			"label": "Physical Description",
+			"value": [
+				"3 vols."
+			]
+		},
+		{
+			"label": "Rights",
+			"value": [
+				"The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement."
+			]
+		}
+	],
+	
+	"thumbnail": {
+		"@id": "http://www.example.org/images/16594152/full/80,100/0/default.jpg",
+		"service": {
+			"@context":"http://iiif.io/api/image/2/context.json",
+			"@id":"http://www.example.org/images/3529905",
+			"profile":"http://iiif.io/api/image/2/level1.json"
+		}
+	},
+
+	"manifests": [
+		{
+			"@type": "sc:Manifest",
+			"@id": "http://example.com/ms229/3529905",
+
+			"label": "Jane Wodening and Stan Brakhage scrapbook",
+			
+			"metadata": [
+				{
+					"label": "Title",
+					"value": [
+						"Jane Wodening and Stan Brakhage scrapbook"
+					]
+				},
+				{
+					"label": "Physical Description",
+					"value": [
+						"1 of 3 vols. ; 36 cm."
+					]
+				}
+			],
+			
+			"thumbnail": {
+				"@id": "http://www.example.org/images/16594152/full/80,100/0/default.jpg",
+				"service": {
+					"@context":"http://iiif.io/api/image/2/context.json",
+					"@id":"http://www.example.org/images/3529905",
+					"profile":"http://iiif.io/api/image/2/level1.json"
+				}
+			},
+
+			"viewingDirection": "right-to-left",
+			"viewingHint": "paged",
+			
+			"related": {
+				"@id": "https://brbl-dl.library.yale.edu/vufind/Record/3529905",
+				"label": "Beinecke Digital Collections Record"
+			},
+
+			"sequences" : [
+				{
+					"@type": "sc:Sequence",
+					"@id": "http://example.com/ms229/3529905/sequence1",
+					"label": "Page 1",
+					
+					"canvases": [
+						{
+							"@type": "sc:Canvas",
+							"@id": "http://example.com/ms229/3529905/sequence1/canvas1",
+							"label": "Page 1",
+							"height": 0, // these are the wrong sizes
+							"width": 0, // these are the wrong sizes
+							"images": [
+								{
+									"@type": "oa:Annotation",
+									"motivation": "sc:painting",
+									"resource": {
+										"@type": "dctypes:Image",
+										"@id": "https://brbl-media.library.yale.edu/images/16595940",
+										"height": 0,
+										"width": 0,
+										"format": "jpg",
+										"service": {
+											"@context": "http://iiif.io/api/image/2/context.json",
+											"@id": "https://brbl-media.library.yale.edu/images/1126257",
+											"profile": "http://iiif.io/api/image/2/level2.json"
+										}
+									},
+									"on": "http://example.com/3542543/sequence/1/canvas/1"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"@type": "sc:Manifest",
+			"@id": "http://example.com/ms229/3529907",
+
+			"label": "Jane Wodening and Stan Brakhage scrapbook",
+
+			"viewingDirection": "right-to-left",
+			"viewingHint": "paged",
+			
+			"related": {
+				"@id": "https://brbl-dl.library.yale.edu/vufind/Record/3529907",
+				"label": "Beinecke Digital Collections Record"
+			}
+		},
+
+		{
+			"@type": "sc:Manifest",
+			"@id": "http://example.com/ms229/4416200",
+
+			"label": "Jane Wodening and Stan Brakhage scrapbook",
+
+			"viewingDirection": "right-to-left",
+			"viewingHint": "paged",
+			
+			"related": {
+				"@id": "https://brbl-dl.library.yale.edu/vufind/Record/4416200",
+				"label": "Beinecke Digital Collections Record"
+			}
+		}
+	]
+}
